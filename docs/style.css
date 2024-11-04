@@ -70,7 +70,7 @@ body {
 
     #container {
         padding: 20px;
-        width: 60%;
+        width: 70%;
     }
 
     #card-image {
@@ -79,7 +79,7 @@ body {
     }
 
     #text {
-        width: 75%;
+        width: 70%;
         text-align: center;
         margin: auto;
     }
