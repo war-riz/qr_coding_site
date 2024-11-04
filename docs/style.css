@@ -83,4 +83,15 @@ body {
         text-align: center;
         margin: auto;
     }
+
+    .attribution {
+        font-size: 12px;
+        text-align: center;
+        margin-top: 20px;
+        top: 90%;
+        bottom: 50%;
+        position: absolute;
+        font-weight: 300;
+    }
+
 }
