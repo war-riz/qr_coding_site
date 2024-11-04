@@ -48,6 +48,20 @@ body {
     margin-bottom: 15px;
 }
 
+.attribution {
+    font-size: 12px;
+    text-align: center;
+    margin-top: 20px;
+    top: 78%;
+    bottom: 50%;
+    position: absolute;
+    font-weight: 300;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
 @media screen and (max-width: 768px) {
     body {
         display: flex;
@@ -56,7 +70,7 @@ body {
 
     #container {
         padding: 20px;
-        width: 70%;
+        width: 60%;
     }
 
     #card-image {
@@ -65,22 +79,8 @@ body {
     }
 
     #text {
-        width: 80%;
+        width: 75%;
         text-align: center;
         margin: auto;
     }
-}
-
-.attribution {
-    font-size: 12px;
-    text-align: center;
-    margin-top: 20px;
-    top: 73%;
-    bottom: 50%;
-    position: absolute;
-    font-weight: 500;
-}
-
-.attribution a {
-    color: hsl(228, 45%, 44%);
 }
