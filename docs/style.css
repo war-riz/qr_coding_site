@@ -71,6 +71,16 @@ body {
     }
 }
 
-.attribution { font-size: 11px; text-align: center; margin-top: 20px;}
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution {
+    font-size: 12px;
+    text-align: center;
+    margin-top: 20px;
+    top: 73%;
+    bottom: 50%;
+    position: absolute;
+    font-weight: 500;
+}
 
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
